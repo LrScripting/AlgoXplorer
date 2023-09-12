@@ -1,4 +1,3 @@
-Certainly! Here's a revised README for your project:
 AlgoXplorer
 
 AlgoXplorer is a powerful GUI tool designed for visualizing data structures and algorithms using C++, Raylib, and Qt. With AlgoXplorer, you can interactively explore and visualize custom data structures and hand-coded algorithms, gaining a deeper understanding of how they work.
